@@ -1,0 +1,14 @@
+{
+    "name": "15231808110/demo",
+    "description": "test porject",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kinshine song",
+            "email": "979466606@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
